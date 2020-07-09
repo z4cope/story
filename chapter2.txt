@@ -1,1 +1,1 @@
-And this is my second story for the git project
+And this is my second story came also from the sided branch
