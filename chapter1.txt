@@ -1,1 +1,1 @@
-This is my first added stuff to the git project.
+This is the first story came from the sided branch by the merge command
